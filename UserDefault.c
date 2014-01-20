@@ -206,8 +206,6 @@ void setup()
   }
   //for test
   readUserDefaultWithKey("GMT");
-  writeUserDefaultValueWithKey("8","GMT");
-  readUserDefaultWithKey("GMT");
   readUserDefaultWithKey("CL1");
   writeUserDefaultValueWithKey("0720","CL1");
   readUserDefaultWithKey("CL1");
